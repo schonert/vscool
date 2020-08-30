@@ -2,7 +2,7 @@
 	"name": "vscool",
 	"displayName": "vscool",
 	"description": "cool stuff for vscode",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "sschonert",
 	"icon": "icon.png",
 	"engines": {
